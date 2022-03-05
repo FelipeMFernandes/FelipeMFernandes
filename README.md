@@ -4,8 +4,8 @@ Possuo formação em Engenharia Cartográfica e de Agrimensura e me interesso pe
 
 <div align="center">
   <a href="https://github.com/FelipeMFernandes">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=FelipeMFernandes&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMFernandes&layout=compact&langs_count=7&theme=light"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=felipemfernandes&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemfernandes&layout=compact&langs_count=7&theme=light"/>
 </div>
 <div style="display: inline_block;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
