@@ -12,6 +12,7 @@ Possuo formação em Engenharia Cartográfica e de Agrimensura e me interesso pe
   <div>
     <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Python" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/480px-ArcGIS_logo.png">
+    <img align="center" alt="Python" height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
     <img align="center" alt="Python" height="30" src="https://leafletjs.com/SlavaUkraini/docs/images/logo.png">
   </div><br>
   <div>
