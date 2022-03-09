@@ -1,6 +1,6 @@
 ## Olá, sou o Felipe!
 
-Possuo formação em Engenharia Cartográfica e de Agrimensura e me interesso pela área do desenvolvimento de softwares, de maneira geral, geossistemas.
+Sou um estudante de Engenharia Cartográfica e de Agrimensura e me interesso pela área do desenvolvimento de softwares, de maneira geral, sistemas com aplicações geoespacias.
 
 <div align="center">
   <a href="https://github.com/FelipeMFernandes">
